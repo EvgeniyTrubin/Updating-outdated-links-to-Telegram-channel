@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+
+# Сессии и временные файлы скрипта
+*.session
+*.session-journal
+checkpoint.json
+replacement_log.csv
+
+# Секреты
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
