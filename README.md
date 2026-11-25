@@ -55,4 +55,7 @@ cd telegram-link-updater
 pip install -r requirements.txt
 
 
+<img width="1073" height="850" alt="Screen Shot 11-24-26 at 09 47 PM" src="https://github.com/user-attachments/assets/429e38d6-e4e4-4760-b5e1-50f5d864034d" />
+<img width="1073" height="850" alt="Screen Shot 11-24-26 at 09 47 PM" src="https://github.com/user-attachments/assets/d879b354-5f6f-49d6-9abf-69918ae0479f" />
+<img width="518" height="417" alt="Screen Shot 11-25-26 at 04 59 PM" src="https://github.com/user-attachments/assets/f9cc0c72-0317-40d7-83ce-cde5662012f4" />
 
