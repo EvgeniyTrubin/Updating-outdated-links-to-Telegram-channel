@@ -53,3 +53,6 @@ pip install -r requirements.txt
 git clone https://github.com/ВАШ_НИК/telegram-link-updater.git
 cd telegram-link-updater
 pip install -r requirements.txt
+
+
+
